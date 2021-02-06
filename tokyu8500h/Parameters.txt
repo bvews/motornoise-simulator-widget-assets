@@ -1,0 +1,8 @@
+BveTs Vehicle Parameters 2.01
+
+[MainCircuit]
+RegenerationLimit = 21
+
+[OneLeverCab]
+BrakeNotchCount = 7
+PowerNotchCount = 4
