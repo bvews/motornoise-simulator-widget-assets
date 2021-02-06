@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg class="svg-content" style="position:absolute" preserveAspectRatio="xMinYMin meet" version="1.1" viewBox="-320 -320 640 640" 
+    xmlns="http://www.w3.org/2000/svg">
+    <g transform="scale(0.85)">
+        <g fill="#444">
+            <circle cx="-264" cy="-264" r="18" display="none"/>
+            <circle cx="264" cy="-264" r="18" display="none"/>
+            <circle cx="-264" cy="264" r="18" display="none"/>
+            <circle cx="264" cy="264" r="18" display="none"/>
+        </g>
+        <g fill="none"></g>
+        <g fill="none"></g>
+        <g fill="none"></g>
+        <g>
+            <path d="m0 0z" display="none" fill="#fff"/>
+        </g>
+        <g>
+            <circle r="100" fill="#888"/>
+            <circle r="48" fill="#eee"/>
+            <circle display="none" fill="none"/>
+            <circle display="none" fill="none"/>
+        </g>
+    </g>
+</svg>
