@@ -1,0 +1,6 @@
+﻿BveTs Vehicle 1.00
+;PerformanceCurve = Notch.txt
+MotorNoise = MotorNoise.txt
+;Parameters = Parameters.txt
+;Panel = Panel.txt
+Sound = Sound.txt

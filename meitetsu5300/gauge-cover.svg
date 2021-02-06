@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg class="svg-content" style="position:absolute" preserveAspectRatio="xMinYMin meet" version="1.1" viewBox="-320 -320 640 640" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <circle r="85" fill="#ccc"/>
+  <circle r="28.05" fill="#e00"/>
+  <circle r="0" display="none" fill="none"/>
+  <circle r="0" display="none" fill="none"/>
+ </g>
+</svg>
